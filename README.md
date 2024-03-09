@@ -6,7 +6,6 @@ Es una apliacion en lenguaje de programacion PHP que muestra en pantalla un "Hol
 
 
 ### Prerequisitos
-para crear el programa necesitamos:
 	- instalar PHP con el comando: "sudo apt isntall php"
 	- insatalar Apache2 con el comando: "sudo apt install apache2"
 	- instalar visual studio code con el comando: "sudo apt install code" 
