@@ -1,7 +1,7 @@
 # Poyecto Hola Mundo en PHP
 
 
-### Descripcion
+### Descripción
 Es una apliacion en lenguaje de programacion PHP que muestra en pantalla un "Hola mundo, soy Edwar Arango (mi nombre)" e incluye una imagen creada en inteligencia artifial (Leonardo IA) de un vehiculo Honda Civic.
 
 
@@ -11,7 +11,7 @@ Es una apliacion en lenguaje de programacion PHP que muestra en pantalla un "Hol
 	- instalar visual studio code con el comando: "sudo apt install code" 
 
 
-### Pasos para su ejecucion
+### Pasos para su ejecución
 	1. Abrir visual code
 	2. Ubicarnos en la carpeta donde tengamos el proyecto PHP
 	3. Abrir archivo de aplicacion: hola.php
